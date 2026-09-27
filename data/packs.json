@@ -1,0 +1,115 @@
+{
+ "generatedFrom": {
+  "poetry": "b8594f81a89752241442f2ce267d6f66f96704ee",
+  "xinhua": "fe6d6c2e8baa82187f4c96bbe042e43f96c05666",
+  "unihan": "18.0.0"
+ },
+ "packs": [
+  {
+   "id": "tang300",
+   "name": "唐诗三百首",
+   "desc": "蘅塘退士选本，五七言绝句律诗为主",
+   "source": "chinese-poetry@b8594f8 全唐诗/唐诗三百首.json",
+   "license": "MIT",
+   "poems": 366,
+   "lines": 3451,
+   "byLen": {
+    "4": 21,
+    "5": 1481,
+    "7": 1862,
+    "other": 87
+   },
+   "featured": 72
+  },
+  {
+   "id": "extras",
+   "name": "名篇补遗",
+   "desc": "三百首之外的名篇：春江花月夜、咏鹅、赠汪伦、题西林壁……",
+   "source": "chinese-poetry@b8594f8 全唐诗/全宋诗（见 scripts/extras.json）",
+   "license": "MIT",
+   "poems": 44,
+   "lines": 232,
+   "byLen": {
+    "5": 54,
+    "7": 175,
+    "other": 3
+   },
+   "featured": 38
+  },
+  {
+   "id": "qianjiashi",
+   "name": "千家诗",
+   "desc": "蒙学选本，短句多、字常见，适合入门",
+   "source": "chinese-poetry@b8594f8 蒙学/qianjiashi.json",
+   "license": "MIT",
+   "poems": 214,
+   "lines": 1193,
+   "byLen": {
+    "5": 498,
+    "7": 695
+   },
+   "featured": 3
+  },
+  {
+   "id": "song300",
+   "name": "宋词三百首",
+   "desc": "长短句混合，句长 3～9 字不等，难度更高",
+   "source": "chinese-poetry@b8594f8 宋词/宋词三百首.json",
+   "license": "MIT",
+   "poems": 280,
+   "lines": 5198,
+   "byLen": {
+    "4": 1839,
+    "5": 877,
+    "7": 697,
+    "other": 1785
+   },
+   "featured": 25
+  },
+  {
+   "id": "nalan",
+   "name": "纳兰词",
+   "desc": "纳兰性德词集，长短句",
+   "source": "chinese-poetry@b8594f8 纳兰性德/纳兰性德诗集.json",
+   "license": "MIT",
+   "poems": 258,
+   "lines": 2283,
+   "byLen": {
+    "4": 330,
+    "5": 672,
+    "7": 862,
+    "other": 419
+   },
+   "featured": 7
+  },
+  {
+   "id": "shijing",
+   "name": "诗经",
+   "desc": "四言为主，16 格一句，复验位余 1",
+   "source": "chinese-poetry@b8594f8 诗经/shijing.json",
+   "license": "MIT",
+   "poems": 305,
+   "lines": 6929,
+   "byLen": {
+    "4": 6217,
+    "5": 386,
+    "7": 24,
+    "other": 302
+   },
+   "featured": 10
+  },
+  {
+   "id": "haiku",
+   "name": "俳句（日本語）",
+   "desc": "芭蕉・蕪村・一茶・子規……原文整句，假名也数笔画（试作）",
+   "source": "古典俳句原文（作者逝世逾百年，公有领域），见 scripts/haiku.json",
+   "license": "Public domain",
+   "poems": 43,
+   "lines": 43,
+   "byLen": {
+    "other": 43
+   },
+   "featured": 0
+  }
+ ]
+}
