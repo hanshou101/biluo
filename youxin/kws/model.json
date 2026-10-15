@@ -1,0 +1,27 @@
+{
+ "files": [
+  {
+   "filename": "encoder.onnx",
+   "start": 0,
+   "end": 4777666
+  },
+  {
+   "filename": "decoder.onnx",
+   "start": 4777666,
+   "end": 4958735
+  },
+  {
+   "filename": "joiner.onnx",
+   "start": 4958735,
+   "end": 5023977
+  },
+  {
+   "filename": "tokens.txt",
+   "start": 5023977,
+   "end": 5025604
+  }
+ ],
+ "remote_package_size": 5025604,
+ "model": "sherpa-onnx-kws-zipformer-wenetspeech-3.3M-2024-01-01",
+ "license": "Apache-2.0"
+}
