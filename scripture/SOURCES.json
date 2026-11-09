@@ -1,0 +1,893 @@
+{
+ "note": "经卷扩展逐页的出处与许可。维基文库的文字以 CC BY-SA 4.0 提供，链接指向所用的那一个修订版本。",
+ "pages": [
+  {
+   "book": "gen",
+   "title": "聖經 (和合本)/創世記",
+   "revid": 2272026,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2272026",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "exo",
+   "title": "聖經 (和合本)/出埃及記",
+   "revid": 413073,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=413073",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lev",
+   "title": "聖經 (和合本)/利未記",
+   "revid": 334694,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334694",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "num",
+   "title": "聖經 (和合本)/民數記",
+   "revid": 334697,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334697",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "deu",
+   "title": "聖經 (和合本)/申命記",
+   "revid": 334698,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334698",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "jos",
+   "title": "聖經 (和合本)/約書亞記",
+   "revid": 334699,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334699",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "jdg",
+   "title": "聖經 (和合本)/士師記",
+   "revid": 413072,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=413072",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "rut",
+   "title": "聖經 (和合本)/路得記",
+   "revid": 334701,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334701",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "1sa",
+   "title": "聖經 (和合本)/撒母耳記上",
+   "revid": 334702,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334702",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "2sa",
+   "title": "聖經 (和合本)/撒母耳記下",
+   "revid": 334703,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334703",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "1ki",
+   "title": "聖經 (和合本)/列王紀上",
+   "revid": 334715,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334715",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "2ki",
+   "title": "聖經 (和合本)/列王紀下",
+   "revid": 940430,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=940430",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "1ch",
+   "title": "聖經 (和合本)/歷代志上",
+   "revid": 334706,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334706",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "2ch",
+   "title": "聖經 (和合本)/歷代志下",
+   "revid": 334707,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334707",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "ezr",
+   "title": "聖經 (和合本)/以斯拉記",
+   "revid": 334708,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334708",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "neh",
+   "title": "聖經 (和合本)/尼希米記",
+   "revid": 334709,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334709",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "est",
+   "title": "聖經 (和合本)/以斯帖記",
+   "revid": 413074,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=413074",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "job",
+   "title": "聖經 (和合本)/約伯記",
+   "revid": 334726,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334726",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "psa",
+   "title": "聖經 (和合本)/詩篇",
+   "revid": 1304951,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1304951",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "pro",
+   "title": "聖經 (和合本)/箴言",
+   "revid": 2004286,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2004286",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "ecc",
+   "title": "聖經 (和合本)/傳道書",
+   "revid": 334713,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334713",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "sng",
+   "title": "聖經 (和合本)/雅歌",
+   "revid": 2004216,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2004216",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "isa",
+   "title": "聖經 (和合本)/以賽亞書",
+   "revid": 2522911,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2522911",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "jer",
+   "title": "聖經 (和合本)/耶利米書",
+   "revid": 334723,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334723",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lam",
+   "title": "聖經 (和合本)/耶利米哀歌",
+   "revid": 334778,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334778",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "ezk",
+   "title": "聖經 (和合本)/以西結書",
+   "revid": 334775,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334775",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "dan",
+   "title": "聖經 (和合本)/但以理書",
+   "revid": 413070,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=413070",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "hos",
+   "title": "聖經 (和合本)/何西阿書",
+   "revid": 334720,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334720",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "jol",
+   "title": "聖經 (和合本)/約珥書",
+   "revid": 2004411,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2004411",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "amo",
+   "title": "聖經 (和合本)/阿摩司書",
+   "revid": 334727,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334727",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "oba",
+   "title": "聖經 (和合本)/俄巴底亞書",
+   "revid": 334728,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334728",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "jon",
+   "title": "聖經 (和合本)/約拿書",
+   "revid": 7903170,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=7903170",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mic",
+   "title": "聖經 (和合本)/彌迦書",
+   "revid": 334730,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334730",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "nam",
+   "title": "聖經 (和合本)/那鴻書",
+   "revid": 334731,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334731",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "hab",
+   "title": "聖經 (和合本)/哈巴谷書",
+   "revid": 334732,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334732",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "zep",
+   "title": "聖經 (和合本)/西番雅書",
+   "revid": 334733,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334733",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "hag",
+   "title": "聖經 (和合本)/哈該書",
+   "revid": 334734,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334734",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "zec",
+   "title": "聖經 (和合本)/撒迦利亞書",
+   "revid": 413067,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=413067",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mal",
+   "title": "聖經 (和合本)/瑪拉基書",
+   "revid": 334736,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334736",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mat",
+   "title": "聖經 (和合本)/馬太福音",
+   "revid": 1337560,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1337560",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mrk",
+   "title": "聖經 (和合本)/馬可福音",
+   "revid": 1337559,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1337559",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "luk",
+   "title": "聖經 (和合本)/路加福音",
+   "revid": 1338069,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1338069",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "jhn",
+   "title": "聖經 (和合本)/約翰福音",
+   "revid": 1338105,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1338105",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "act",
+   "title": "聖經 (和合本)/使徒行傳",
+   "revid": 1338141,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1338141",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "rom",
+   "title": "聖經 (和合本)/羅馬書",
+   "revid": 1338103,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1338103",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "1co",
+   "title": "聖經 (和合本)/哥林多前書",
+   "revid": 1338104,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1338104",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "2co",
+   "title": "聖經 (和合本)/哥林多後書",
+   "revid": 1338099,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1338099",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "gal",
+   "title": "聖經 (和合本)/加拉太書",
+   "revid": 1338095,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1338095",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "eph",
+   "title": "聖經 (和合本)/以弗所書",
+   "revid": 1338100,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1338100",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "php",
+   "title": "聖經 (和合本)/腓立比書",
+   "revid": 335266,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=335266",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "col",
+   "title": "聖經 (和合本)/歌羅西書",
+   "revid": 335267,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=335267",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "1th",
+   "title": "聖經 (和合本)/帖撒羅尼迦前書",
+   "revid": 335268,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=335268",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "2th",
+   "title": "聖經 (和合本)/帖撒羅尼迦後書",
+   "revid": 335269,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=335269",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "1ti",
+   "title": "聖經 (和合本)/提摩太前書",
+   "revid": 1338102,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1338102",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "2ti",
+   "title": "聖經 (和合本)/提摩太後書",
+   "revid": 1338094,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1338094",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "tit",
+   "title": "聖經 (和合本)/提多書",
+   "revid": 335272,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=335272",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "phm",
+   "title": "聖經 (和合本)/腓利門書",
+   "revid": 335273,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=335273",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "heb",
+   "title": "聖經 (和合本)/希伯來書",
+   "revid": 1338101,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1338101",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "jas",
+   "title": "聖經 (和合本)/雅各書",
+   "revid": 1338097,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1338097",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "1pe",
+   "title": "聖經 (和合本)/彼得前書",
+   "revid": 1338096,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1338096",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "2pe",
+   "title": "聖經 (和合本)/彼得後書",
+   "revid": 1338093,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1338093",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "1jn",
+   "title": "聖經 (和合本)/約翰一書",
+   "revid": 334875,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334875",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "2jn",
+   "title": "聖經 (和合本)/約翰二書",
+   "revid": 334876,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=334876",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "3jn",
+   "title": "聖經 (和合本)/約翰三書",
+   "revid": 335274,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=335274",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "jud",
+   "title": "聖經 (和合本)/猶大書",
+   "revid": 335275,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=335275",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "rev",
+   "title": "聖經 (和合本)/啟示錄",
+   "revid": 414061,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=414061",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "xinjing",
+   "title": "Page:SSID-10510986 大正新修 大藏經 第8卷·般若部四.pdf/864",
+   "revid": 2569134,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2569134",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "jingang",
+   "title": "金剛般若波羅蜜經 (鳩摩羅什)",
+   "revid": 2621253,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2621253",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "tanjing",
+   "title": "六祖壇經/行由品",
+   "revid": 1967819,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1967819",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "tanjing",
+   "title": "六祖壇經/般若品",
+   "revid": 2000002,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2000002",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "tanjing",
+   "title": "六祖壇經/疑問品",
+   "revid": 1969557,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1969557",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "tanjing",
+   "title": "六祖壇經/定慧品",
+   "revid": 1969009,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1969009",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "tanjing",
+   "title": "六祖壇經/坐禪品",
+   "revid": 1821014,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1821014",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "tanjing",
+   "title": "六祖壇經/懺悔品",
+   "revid": 1968640,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1968640",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "tanjing",
+   "title": "六祖壇經/機緣品",
+   "revid": 2311470,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2311470",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "tanjing",
+   "title": "六祖壇經/頓漸品",
+   "revid": 2594122,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2594122",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "tanjing",
+   "title": "六祖壇經/護法品",
+   "revid": 1960744,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1960744",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "tanjing",
+   "title": "六祖壇經/付囑品",
+   "revid": 2638016,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2638016",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "sishier",
+   "title": "四十二章經 (譯本一)",
+   "revid": 2544678,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2544678",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "yijiao",
+   "title": "佛遺教經",
+   "revid": 1517554,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1517554",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/學而第一",
+   "revid": 2058123,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2058123",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/爲政第二",
+   "revid": 2058121,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2058121",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/八佾第三",
+   "revid": 2200702,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2200702",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/里仁第四",
+   "revid": 2177314,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2177314",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/公冶長第五",
+   "revid": 973596,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=973596",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/雍也第六",
+   "revid": 10602494,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=10602494",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/述而第七",
+   "revid": 10602118,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=10602118",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/泰伯第八",
+   "revid": 2120928,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2120928",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/子罕第九",
+   "revid": 2018157,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2018157",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/鄉黨第十",
+   "revid": 1956464,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1956464",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/先進第十一",
+   "revid": 10602404,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=10602404",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/顏淵第十二",
+   "revid": 10602324,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=10602324",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/子路第十三",
+   "revid": 1956460,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1956460",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/憲問第十四",
+   "revid": 10602030,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=10602030",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/衞靈公第十五",
+   "revid": 2058122,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2058122",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/季氏第十六",
+   "revid": 2178436,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2178436",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/陽貨第十七",
+   "revid": 1075085,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1075085",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/微子第十八",
+   "revid": 1311661,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1311661",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/子張第十九",
+   "revid": 1075051,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=1075051",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "lunyu",
+   "title": "論語/堯曰第二十",
+   "revid": 2175814,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2175814",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "daxue",
+   "title": "禮記/大學",
+   "revid": 2809685,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2809685",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "zhongyong",
+   "title": "禮記/中庸",
+   "revid": 2346484,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2346484",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mengzi",
+   "title": "孟子/梁惠王上",
+   "revid": 2642991,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2642991",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mengzi",
+   "title": "孟子/梁惠王下",
+   "revid": 2636980,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2636980",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mengzi",
+   "title": "孟子/公孫丑上",
+   "revid": 2636981,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2636981",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mengzi",
+   "title": "孟子/公孫丑下",
+   "revid": 8750853,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=8750853",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mengzi",
+   "title": "孟子/滕文公上",
+   "revid": 2636984,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2636984",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mengzi",
+   "title": "孟子/滕文公下",
+   "revid": 2636985,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2636985",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mengzi",
+   "title": "孟子/離婁上",
+   "revid": 2636988,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2636988",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mengzi",
+   "title": "孟子/離婁下",
+   "revid": 2636994,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2636994",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mengzi",
+   "title": "孟子/萬章上",
+   "revid": 2636998,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2636998",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mengzi",
+   "title": "孟子/萬章下",
+   "revid": 7912092,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=7912092",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mengzi",
+   "title": "孟子/告子上",
+   "revid": 2637004,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2637004",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mengzi",
+   "title": "孟子/告子下",
+   "revid": 2637005,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2637005",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mengzi",
+   "title": "孟子/盡心上",
+   "revid": 2637007,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2637007",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "mengzi",
+   "title": "孟子/盡心下",
+   "revid": 2637012,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2637012",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "daodejing",
+   "title": "道德經 (王弼本)",
+   "revid": 2354026,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "zhuangzi",
+   "title": "莊子/逍遙遊",
+   "revid": 9852766,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=9852766",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "zhuangzi",
+   "title": "莊子/齊物論",
+   "revid": 9852855,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=9852855",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "zhuangzi",
+   "title": "莊子/養生主",
+   "revid": 9852874,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=9852874",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "zhuangzi",
+   "title": "莊子/人間世",
+   "revid": 9852893,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=9852893",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "zhuangzi",
+   "title": "莊子/德充符",
+   "revid": 9852906,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=9852906",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "zhuangzi",
+   "title": "莊子/大宗師",
+   "revid": 9853506,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=9853506",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "zhuangzi",
+   "title": "莊子/應帝王",
+   "revid": 9853531,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=9853531",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "qingjing",
+   "title": "太上老君說常清靜經",
+   "revid": 10617868,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=10617868",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "ganying",
+   "title": "太上感應篇",
+   "revid": 2569348,
+   "url": "https://zh.wikisource.org/w/index.php?oldid=2569348",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "book": "quran",
+   "title": "王静斋译《古兰经译解》丙种本（1946）",
+   "url": "https://www.islam.org.hk/tools/cqse/",
+   "license": "公有领域（中国及终身加七十年地区）"
+  }
+ ]
+}
